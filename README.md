@@ -256,7 +256,7 @@ Métodos:
 
 ## 4. Creación de diagramas de clases
 
-Se han adjuntado dos diagramas dentro de la carpeta img/ del repositorio.
+Se han adjuntado dos diagramas dentro de la carpeta diagrams/ del repositorio.
 
 - Diagrmas de Casos de Uso.
 - Diagrama de Clases.
